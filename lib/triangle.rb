@@ -3,6 +3,10 @@ class Triangle
     @sideOne = sideOne
     @sideTwo = sideTwo
     @sideThree = sideThree
+  end 
+  
+  def kind 
+    
   
   # write code here
 end
